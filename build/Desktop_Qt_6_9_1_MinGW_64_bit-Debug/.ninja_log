@@ -1,0 +1,60 @@
+# ninja log v6
+82	1009	7737463710259750	bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+82	1009	7737463710259750	bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+82	1009	7737463710259750	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+82	1009	7737463710259750	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+1024	3726	7737463711351936	CMakeFiles/bruteEngine.dir/bruteEngine_autogen/mocs_compilation.cpp.obj	5fb8bb62ee08eb37
+1029	3738	7737463711351936	CMakeFiles/bruteEngine.dir/main.cpp.obj	6134448ca4303139
+1039	3744	7737463711508554	CMakeFiles/bruteEngine.dir/win2kstyle.cpp.obj	9e18c0ad108ac03a
+1034	3822	7737463711488457	CMakeFiles/bruteEngine.dir/mainwindow.cpp.obj	a812ef84a7dc850a
+48	202	7737465413945535	bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+48	202	7737465413945535	bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+48	202	7737465413945535	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+48	202	7737465413945535	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+207	3169	7737465415533511	CMakeFiles/bruteEngine.dir/win2kstyle.cpp.obj	9e18c0ad108ac03a
+203	3186	7737465415493911	CMakeFiles/bruteEngine.dir/mainwindow.cpp.obj	a812ef84a7dc850a
+47	245	7737466407078807	bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+47	245	7737466407078807	bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+47	245	7737466407078807	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+47	245	7737466407078807	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+246	3793	7737466409068368	CMakeFiles/bruteEngine.dir/main.cpp.obj	6134448ca4303139
+252	3960	7737466409128418	CMakeFiles/bruteEngine.dir/mainwindow.cpp.obj	a812ef84a7dc850a
+33	198	7737468172136838	bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+33	198	7737468172136838	bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+33	198	7737468172136838	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+33	198	7737468172136838	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+206	4277	7737468173869711	CMakeFiles/bruteEngine.dir/win2kstyle.cpp.obj	9e18c0ad108ac03a
+203	4361	7737468173829762	CMakeFiles/bruteEngine.dir/mainwindow.cpp.obj	a812ef84a7dc850a
+28	183	7737468984258354	bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+28	183	7737468984258354	bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+28	183	7737468984258354	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+28	183	7737468984258354	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+184	3005	7737468985813629	CMakeFiles/bruteEngine.dir/main.cpp.obj	6134448ca4303139
+188	3287	7737468985853870	CMakeFiles/bruteEngine.dir/mainwindow.cpp.obj	a812ef84a7dc850a
+35	203	7737473050133127	bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+35	203	7737473050133127	bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+35	203	7737473050133127	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+35	203	7737473050133127	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+204	4201	7737473051829853	CMakeFiles/bruteEngine.dir/main.cpp.obj	6134448ca4303139
+208	4409	7737473051869844	CMakeFiles/bruteEngine.dir/mainwindow.cpp.obj	a812ef84a7dc850a
+213	4534	7737473051919840	CMakeFiles/bruteEngine.dir/win2kstyle.cpp.obj	9e18c0ad108ac03a
+4534	4806	7737473095132136	bruteEngine.exe	ca86d1dd15e19927
+28	181	7737474442154514	bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+28	181	7737474442154514	bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+28	181	7737474442154514	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+28	181	7737474442154514	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+182	2981	7737474443698910	CMakeFiles/bruteEngine.dir/main.cpp.obj	6134448ca4303139
+186	3300	7737474443732418	CMakeFiles/bruteEngine.dir/mainwindow.cpp.obj	a812ef84a7dc850a
+3300	3564	7737474474877991	bruteEngine.exe	ca86d1dd15e19927
+28	206	7737475546979607	bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+28	206	7737475546979607	bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+28	206	7737475546979607	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+28	206	7737475546979607	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+208	2374	7737475548773612	CMakeFiles/bruteEngine.dir/mainwindow.cpp.obj	a812ef84a7dc850a
+2374	2615	7737475570438323	bruteEngine.exe	ca86d1dd15e19927
+28	202	7737476008993624	bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+28	202	7737476008993624	bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+28	202	7737476008993624	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp	d17ef0dd2a3340cb
+28	202	7737476008993624	C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/mocs_compilation.cpp	d17ef0dd2a3340cb
+203	2401	7737476010755387	CMakeFiles/bruteEngine.dir/mainwindow.cpp.obj	a812ef84a7dc850a
+2402	2637	7737476032744517	bruteEngine.exe	ca86d1dd15e19927

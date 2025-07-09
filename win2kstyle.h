@@ -9,7 +9,7 @@ public:
 
     QPalette standardPalette() const override;
     void drawControl(ControlElement element, const QStyleOption *option,
-                     QPainter *painter, const QWidget *widget) const override;
+                     QPainter *painter, const QWidget *widget = nullptr) const override;
 };
 
 #endif // WIN2KSTYLE_H
