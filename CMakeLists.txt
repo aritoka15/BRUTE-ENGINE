@@ -13,6 +13,8 @@ qt_add_executable(bruteEngine
     mainwindow.ui
     win2kstyle.h
     win2kstyle.cpp
+    fonts/DotGothic16-Regular.ttf
+    bruteEngine.qrc
 )
 
 target_link_libraries(bruteEngine

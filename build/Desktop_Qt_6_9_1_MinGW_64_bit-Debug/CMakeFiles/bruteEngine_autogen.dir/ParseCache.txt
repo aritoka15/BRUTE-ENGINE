@@ -374,7 +374,7 @@ C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/mainwindow
  mdp:C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/moc_predefs.h
  mdp:C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/mainwindow.h
 C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/win2kstyle.h
+C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/main.cpp
 C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/mainwindow.cpp
  uic:ui_mainwindow.h
-C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/main.cpp
 C:/Users/Lenovo/OneDrive/Documentos/MyC++/BRUTE engine QT/bruteEngine/win2kstyle.cpp

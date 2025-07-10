@@ -75,13 +75,13 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 26,
+				"line" : 27,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 18,
+				"line" : 19,
 				"parent" : 0
 			},
 			{
@@ -485,8 +485,8 @@
 			"sourceIndexes" : 
 			[
 				0,
-				7,
-				8
+				8,
+				9
 			]
 		},
 		{
@@ -514,10 +514,17 @@
 			]
 		},
 		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				7
+			]
+		},
+		{
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				9
+				10
 			]
 		}
 	],
@@ -564,6 +571,11 @@
 			"sourceGroupIndex" : 1
 		},
 		{
+			"backtrace" : 4,
+			"path" : "fonts/DotGothic16-Regular.ttf",
+			"sourceGroupIndex" : 4
+		},
+		{
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/include/ui_mainwindow.h",
@@ -579,7 +591,7 @@
 			"backtrace" : 0,
 			"isGenerated" : true,
 			"path" : "build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/bruteEngine_autogen/timestamp.rule",
-			"sourceGroupIndex" : 4
+			"sourceGroupIndex" : 5
 		}
 	],
 	"type" : "EXECUTABLE"

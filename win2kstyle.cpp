@@ -54,3 +54,4 @@ void Win2kStyle::drawControl(ControlElement element, const QStyleOption *option,
 
     QProxyStyle::drawControl(element, option, painter, widget);
 }
+
